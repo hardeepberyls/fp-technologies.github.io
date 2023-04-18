@@ -1,0 +1,65 @@
+@media (max-width: 767.98px) {
+  .fp_service_content,
+  .fp_contact_card,
+  .fp_card_detail,
+  .fp_contact_wrap,
+  .fp_banner {
+    flex-direction: column;
+  }
+  .left_title_text h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 34px;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .left_title_text {
+    padding-top: 70px;
+  }
+  .fp_card_content {
+    text-align: center;
+  }
+  .fp_card_detail {
+    margin-bottom: 40px;
+  }
+  .fp_banner_image {
+    margin-top:40px;
+  }
+  .footer_links,
+  .footer_social {
+    padding-top: 24px;
+  }
+  .footer_links ul {
+    width: 150px;
+    margin: 15px auto 0;
+  }
+  .fp_card {
+    margin: 0 auto 15px;
+  }
+  .fp_detail_icon {
+    padding-bottom: 15px;
+  }
+  .fp_about h3 {
+    font-size: 18px;
+  }
+  .fp_about h3:before {
+    width: 92px;
+  }
+  .fp_sevice h3:before {
+    width: 82px;
+  }
+  .fp_contact h3::before {
+    width: 110px;
+  }
+  .pt-custom {
+    padding-top: 30px;
+  }
+  .start_btn {
+    text-align: center;
+  }
+  .fp_banner{
+      height: 560px;
+  }
+}
